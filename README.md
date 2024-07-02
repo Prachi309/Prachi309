@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **MERN development and Data Structures and Algorithm**
 - 💬 Ask me about **Web development**
 - 📫 How to reach me **kspprachi@gmail.com**
-- 👨‍💻 All of my projects are available at **https://prachi309.github.io/Prachi-s-Portfolio/**
+
 
 
 ## 🌐 Socials:
