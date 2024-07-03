@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Full stack projects**
+- 🔭 I’m currently working on **MERN stack projects**
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🌱 I’m currently learning **MERN development and Data Structures and Algorithm**
 - 💬 Ask me about **Web development**
