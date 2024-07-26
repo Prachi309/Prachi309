@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🌱 I’m currently learning **MERN development and Data Structures and Algorithm**
 - 💬 Ask me about **Web development**
-- 📫 How to reach me **kspprachi@gmail.com**
+
 
 [![](https://visitcount.itsvg.in/api?id=Prachi309&icon=0&color=0)](https://visitcount.itsvg.in)
 
