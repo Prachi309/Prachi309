@@ -1,8 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **MERN stack projects**
+- 🔭 I am a **MERN stack developer**
 - 👯 I’m looking to collaborate on **Web development projects**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development and DSA**
 
 
 [![](https://visitcount.itsvg.in/api?id=Prachi309&icon=0&color=0)](https://visitcount.itsvg.in)
