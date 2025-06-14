@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am a **MERN stack developer**
+- 🔭 I am a **Full stack developer**
 - 👯 I’m looking to collaborate on **Web development projects**
 - 💬 Ask me about **Web development and DSA**
 
